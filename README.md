@@ -14,7 +14,7 @@ The initial pattern constitutes the *seed* of the system. The first generation i
 -------------
 
 Preview:
-![Game Preview](https://github.com/Avicii4/lifegame/src/preview.jpg)
+![Game Preview](https://github.com/Avicii4/lifegame/blob/master/src/preview.jpg)
 
 The "config.txt" is used to set the number of cells in horizontal and vertical directions (Width & Height).
 
