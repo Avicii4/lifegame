@@ -7,7 +7,7 @@ package lifegame.game;
 public class Matrix {
     private int x = 0;
     private int y = 0;
-    boolean isAlive = false; // the state of each cell
+    private boolean isAlive = false; // the state of each cell
 
     public void setX(int x) {
         this.x = x;
